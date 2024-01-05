@@ -10,7 +10,7 @@ Frontend Expertise:<br>
 ✔️HTML | CSS | Bootstrap <br>
 ✔️PSD to HTML <br>
 <br>
-Backend Expertise:
+Backend Expertise:<br>
 ✔️ Custom PHP <br>
 ✔️Framework: Laravel | WordPress | CodeIgniter <br>
 ✔️Asp.Net <br>
