@@ -4,7 +4,7 @@ I am a Full-stack webs + Mobile App developer with 5+ years of experience and ha
 
 I have refined strengths through vast experience in web development, where I have provided solutions at the architecture level, backend technologies, following coding standards, following Git Flow model and team building etc. I assure "Quality" in the work of which I do and my motto of providing next generation IT services.
 
-Frontend Expertise:
+Frontend Expertise:<br>
 ✔️UX & UI Design <br>
 ✔️LOGO Design <br>
 ✔️HTML | CSS | Bootstrap <br>
