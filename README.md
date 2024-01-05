@@ -1,16 +1,17 @@
 
+<H1> Web & Mobile App Developer | PHP | Laravel | React </H1>
 I am a Full-stack webs + Mobile App developer with 5+ years of experience and have the expertise to complete many projects as Technical Lead. I have very good experience working on full applications that require scalable architecture to design and develop, having worked on all stages like design, development to deployment with proven experiences in developing API services, User authorization, emails.
 
 I have refined strengths through vast experience in web development, where I have provided solutions at the architecture level, backend technologies, following coding standards, following Git Flow model and team building etc. I assure "Quality" in the work of which I do and my motto of providing next generation IT services.
 
 Frontend Expertise:
-✔️UX & UI Design
-✔️LOGO Design
-✔️HTML | CSS | Bootstrap
-✔️PSD to HTML
-
+✔️UX & UI Design <br>
+✔️LOGO Design <br>
+✔️HTML | CSS | Bootstrap <br>
+✔️PSD to HTML <br>
+<br>
 Backend Expertise:
-✔️ Custom PHP
+✔️ Custom PHP <br>
 ✔️Framework: Laravel | WordPress | CodeIgniter
 ✔️Asp.Net
 ✔️Third-Party Libraries | AWS | Cloud Services |Microsoft 365
