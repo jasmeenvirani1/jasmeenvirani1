@@ -47,3 +47,7 @@ What we will deliver:<br>
 ✔️Free consultation on your requirement<br><br>
 
 I assure you will be willing to do work with me in the future.
+
+Best Regards,
+Jasmeen Virani
+📞 +91 81284 85820
