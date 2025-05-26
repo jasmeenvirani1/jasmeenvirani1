@@ -48,6 +48,6 @@ What we will deliver:<br>
 
 I assure you will be willing to do work with me in the future.
 
-Best Regards,
-Jasmeen Virani
-📞 +91 81284 85820
+Best Regards, <br>
+Jasmeen Virani <br>
+📞 +91 81284 85820 <br>
